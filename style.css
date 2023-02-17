@@ -84,7 +84,7 @@ header img{
     display: grid;
     grid-template-columns: 1fr 1fr ;
     /* column-gap: 1rem; */
-    padding: 4em 0 2em;
+    padding: 4em 0 6em;
 }
 .device--pc figure{
     /* width: 100%; */
